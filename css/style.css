@@ -150,7 +150,7 @@ nav ul li a:hover {
   padding: 8px;
   border-radius: 10px;
   box-shadow: 0 0 6px 0 rgba(255, 255, 255, 0.7);
-  transition: .8;
+  transition: 0.8;
 }
 
 .icons-1:hover,
@@ -158,7 +158,6 @@ nav ul li a:hover {
 .icons-3:hover,
 .icons-4:hover {
   transform: scale(1.2);
-
 }
 
 .icons-1 {
@@ -178,7 +177,7 @@ nav ul li a:hover {
   background-color: #8f00ff;
 }
 
-.text button  {
+.text button {
   border-radius: 50px;
   border: none;
   display: flex;
@@ -374,16 +373,14 @@ nav ul li a:hover {
   margin-bottom: 10px;
   padding: 8px;
   border-radius: 10px;
-  transition: .8;
+  transition: 0.8;
 }
 
 .icons-bot:hover,
 .icons-html:hover,
 .icons-css:hover {
   transform: scale(1.2);
-} 
-
-
+}
 
 .icons-html {
   color: #fffaf0;
