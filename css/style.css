@@ -8,7 +8,7 @@ body {
   font-family: sans-serif;
   color: #fff;
   height: 100vh;
-  background-image: url(/img/bg2.jpg);
+  background-image: url(../img/bg2.jpg);
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -144,9 +144,9 @@ nav ul li a:hover {
 .icons-3,
 .icons-4 {
   margin-top: 15px;
-  margin-right: 15px;
+  margin-right: 10px;
   color: white;
-  font-size: 30px;
+  font-size: 27px;
   padding: 8px;
   border-radius: 10px;
   box-shadow: 0 0 6px 0 rgba(255, 255, 255, 0.7);
@@ -161,7 +161,6 @@ nav ul li a:hover {
 }
 
 .icons-1 {
-  margin-left: 10%;
   background-color: #4682b4;
 }
 
@@ -244,6 +243,7 @@ nav ul li a:hover {
   backdrop-filter: blur(20px);
   box-shadow: 0 0 16px 0 rgba(255, 255, 255, 0.9);
   border-radius: 20px;
+  padding: 15px 0;
 }
 
 .about-set .about-text {
@@ -363,7 +363,7 @@ nav ul li a:hover {
   justify-content: center;
   text-align: center;
   width: 50%;
-  padding: 15px;
+  padding: 20px 15px;
 }
 
 .icons-bot,
