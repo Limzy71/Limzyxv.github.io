@@ -53,7 +53,7 @@ nav ul {
   display: flex;
   list-style: none;
   justify-content: space-between;
-  gap: 55px;
+  gap: 30px;
 }
 
 nav ul li a {
@@ -646,13 +646,13 @@ nav ul li a:hover {
 .footer {
   box-shadow: 0 0 20px 0 rgba(255, 255, 255, 0.9);
   text-align: center;
-  padding: 30px;
-  backdrop-filter: blur(6px);
+  padding: 20px;
+  backdrop-filter: blur(8px);
   margin-top: 30px;
 }
 
 .footer p {
-  font-size: 22px;
+  font-size: 18px;
 }
 
 .footer a {
